@@ -21,7 +21,8 @@ Built with modern technologies and AI integration
 
 ## Live Demo
 
-Add your deployed Vercel link here
+
+Visit the  [_LINK 🔗_](https://resume-builder-roan-phi.vercel.app)
 
 | User Interface | Dashboard |
 |---------------|-----------|
