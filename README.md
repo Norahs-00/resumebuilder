@@ -22,7 +22,7 @@ Built with modern technologies and AI integration
 ## Live Demo
 
 
-Visit the  [_LINK 🔗_](https://resume-builder-roan-phi.vercel.app)
+Visit the  [_LINK 🔗_]((https://resume-builder-roan-phi.vercel.app)
 
 | User Interface | Dashboard |
 |---------------|-----------|
